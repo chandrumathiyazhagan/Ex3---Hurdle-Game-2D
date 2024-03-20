@@ -10,7 +10,7 @@ STEP 1:Create a 2D project in unity.
 
 STEP 2:Add player,hurdles,coins,track in the frame and add the valid collider2D component.
 
-STEP 3:Assets->Create-># Script
+STEP 3:Click Assets->Create-># Script
 
 STEP 4:create player.cs and coinmanger script and add c# code.
 
