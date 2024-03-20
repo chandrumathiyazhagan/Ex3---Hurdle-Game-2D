@@ -10,15 +10,21 @@ STEP 1:Create a 2D project in unity.
 
 STEP 2:Add player,hurdles,coins,track in the frame and add the valid collider2D component.
 
-STEP 3:Click Assets->Create-># Script
+STEP 3:Click Assets->Create-># Script.
 
 STEP 4:create player.cs and coinmanger script and add c# code.
 
-STEP 5:Drag the script to player and coin.
+STEP 5:Click canvas->Gamemanager->add Score and value.
 
-STEP 6:Run the scene and display the output.
+STEP 6:Drag the script to player and coin.
+
+STEP 7:Run the scene and display the output.
 
 ## PROGRAM:
+
+Developed by: M.CHANDRU
+
+Register no: 212222230026
 
 ### player.cs:
 ```python
